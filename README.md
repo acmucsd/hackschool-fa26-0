@@ -4,8 +4,8 @@ A simple Wordle-style game built with HTML, CSS, and JavaScript.
 
 ## Setup
 
-git - https://git-scm.com/install/
-vscode - https://code.visualstudio.com/
+git - https://git-scm.com/install/  
+vscode - https://code.visualstudio.com/  
 vscode live server extension (optional) - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 Clone the repository using git, then open the folder in your code editor.
